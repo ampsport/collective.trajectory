@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/collective/!svn/ver/244805/collective.trajectory/trunk/collective/trajectory
+END
+configure.zcml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/collective/!svn/ver/244805/collective.trajectory/trunk/collective/trajectory/configure.zcml
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/collective/!svn/ver/244783/collective.trajectory/trunk/collective/trajectory/__init__.py
+END
+utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/collective/!svn/ver/244783/collective.trajectory/trunk/collective/trajectory/utils.py
+END
+browser.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/collective/!svn/ver/244805/collective.trajectory/trunk/collective/trajectory/browser.py
+END
+components.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/collective/!svn/ver/244805/collective.trajectory/trunk/collective/trajectory/components.py
+END
