@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 import os
 
-version = '0.2dev'
+version = '0.1'
 
 setup(name='collective.trajectory',
       version=version,
@@ -17,13 +17,15 @@ setup(name='collective.trajectory',
       author='Izhar Firdaus',
       author_email='izhar@inigo-tech.com',
       url='http://svn.plone.org/svn/collective/collective.trajectory',
-      license='ZPL',
+      license='GPL',
       packages=find_packages(exclude=['ez_setup']),
       namespace_packages=['collective'],
       include_package_data=True,
       zip_safe=False,
       install_requires=[
           'setuptools',
+          'traject',
+          'zope.globalrequest'
           # -*- Extra requirements: -*-
       ],
       entry_points="""
